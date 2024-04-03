@@ -1,6 +1,6 @@
 # Final-Project-Idea #
 
-This project was intended for CS50 but eventually got too big in scope and put on halt for now.
+This project was intended for CS50 (Harvard Course) but eventually got too big in scope and put on halt for now.
 
 A computer-vision project implemented into pygame.
 
